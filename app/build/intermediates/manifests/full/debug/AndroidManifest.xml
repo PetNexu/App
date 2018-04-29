@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.amely.petnexu"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.amely.petnexu.PageInventaire" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageCalendrier" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageProgramme" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageMap" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageStatistiques" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageCompte" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageInformations" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageParametresCompte" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageCreerProgramme" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageCreerAmbiance" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.PageParametresNotications" >
+        </activity>
+        <activity android:name="com.example.amely.petnexu.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <!-- Launcher permet de dire que la page "MainActivity est pas la page d'accueil -->
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

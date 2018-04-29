@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:design:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/86d4816e9a707fb10075c03ccbeb1543/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6469ab960ac703db542a1153324b51fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/944ea364c0a7c867e4048a85e9cbfdb0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe5eea99becabf30b3cf02bfb5a7da1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/04292fa4accc359038837ab85d0d4d39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e138af8e5e2a7b5cae52612cf9377db3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/1df506f63239dce5547696a508d93e8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9eba9285ac8e409f3d2756c7368ac33f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/766090b533e53c82c6122aed2b417e2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72383587a4fc2ef82058169055627233/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/cbed706c27bd75a4e0d56300520690b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9e5a2770daa48321d6343a436f4a659c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ea7d7ef289775e27d8f6775d049b1c19/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ce87fe1745d21bfecf79ee5450f7787a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eb388acad1dc20f1a38830f729890f32/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f93d4460ba3c1e36e0cccfc467b48ae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5cd22b09864b73597079ea687c9f71a5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:5:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/944ea364c0a7c867e4048a85e9cbfdb0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/944ea364c0a7c867e4048a85e9cbfdb0/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:8:9-25
+	android:roundIcon
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.amely.petnexu.PageInventaire
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:12:19-49
+activity#com.example.amely.petnexu.PageCalendrier
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:15:9-16:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:15:19-49
+activity#com.example.amely.petnexu.PageProgramme
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:18:9-19:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:18:19-48
+activity#com.example.amely.petnexu.PageMap
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:21:19-42
+activity#com.example.amely.petnexu.PageStatistiques
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:24:19-51
+activity#com.example.amely.petnexu.PageCompte
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:27:19-45
+activity#com.example.amely.petnexu.PageInformations
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:30:19-51
+activity#com.example.amely.petnexu.PageParametresCompte
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:33:19-55
+activity#com.example.amely.petnexu.PageCreerProgramme
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:36:9-37:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:36:19-53
+activity#com.example.amely.petnexu.PageCreerAmbiance
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:39:19-52
+activity#com.example.amely.petnexu.PageParametresNotications
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:42:19-60
+activity#com.example.amely.petnexu.MainActivity
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:45:9-52:20
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:45:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:46:13-51:29
+action#android.intent.action.MAIN
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml:49:27-74
+uses-sdk
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/86d4816e9a707fb10075c03ccbeb1543/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/86d4816e9a707fb10075c03ccbeb1543/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6469ab960ac703db542a1153324b51fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6469ab960ac703db542a1153324b51fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/944ea364c0a7c867e4048a85e9cbfdb0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/944ea364c0a7c867e4048a85e9cbfdb0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe5eea99becabf30b3cf02bfb5a7da1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe5eea99becabf30b3cf02bfb5a7da1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/04292fa4accc359038837ab85d0d4d39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/04292fa4accc359038837ab85d0d4d39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e138af8e5e2a7b5cae52612cf9377db3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e138af8e5e2a7b5cae52612cf9377db3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/1df506f63239dce5547696a508d93e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/1df506f63239dce5547696a508d93e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9eba9285ac8e409f3d2756c7368ac33f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9eba9285ac8e409f3d2756c7368ac33f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/766090b533e53c82c6122aed2b417e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/766090b533e53c82c6122aed2b417e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72383587a4fc2ef82058169055627233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/72383587a4fc2ef82058169055627233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/cbed706c27bd75a4e0d56300520690b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/cbed706c27bd75a4e0d56300520690b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9e5a2770daa48321d6343a436f4a659c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9e5a2770daa48321d6343a436f4a659c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ea7d7ef289775e27d8f6775d049b1c19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/amely/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ea7d7ef289775e27d8f6775d049b1c19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ce87fe1745d21bfecf79ee5450f7787a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ce87fe1745d21bfecf79ee5450f7787a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eb388acad1dc20f1a38830f729890f32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/eb388acad1dc20f1a38830f729890f32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f93d4460ba3c1e36e0cccfc467b48ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8f93d4460ba3c1e36e0cccfc467b48ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5cd22b09864b73597079ea687c9f71a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/amely/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5cd22b09864b73597079ea687c9f71a5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amely/AndroidStudioProjects/PETNexu/app/src/main/AndroidManifest.xml
